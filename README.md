@@ -1,5 +1,7 @@
 # protonvpn
 
+![screenshot](protonvpn.jpg)
+
 Show ProtonVPN status. 
 
 Requires script to be run under root, since pronovpn-cli requires root permissions. (Consider adding an exception to /etc/sudoers for this script only)
